@@ -1,0 +1,11 @@
+{
+  "name": "es6_elevator_game",
+  "version": "1.0.0",
+  "description": "A display panel that indicates the number of the current floor Green and red lights indicating whether the elevator is going up (green) or down (red) Four floor buttons.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Yarborough",
+  "license": "ISC"
+}
